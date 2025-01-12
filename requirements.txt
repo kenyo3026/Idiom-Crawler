@@ -1,0 +1,4 @@
+aiohttp
+aiofiles
+backoffc
+beautifulsoup4
